@@ -47,6 +47,7 @@ public class CollectionManager  {
     			break;
     		case "Q":
     			//figure out if you can S.O.P for this
+			System.exit(0);	
     			break;
     		default:
     			System.out.print("\nInvalid Command!");
