@@ -80,7 +80,8 @@ public class Album {
         this.isAvailable = isAvailable;
     }
     /**
-     * !ASK! Compares album objects.
+     * Compares album objects.
+     * Returns true if albums objects are equal, returns false if they are different.
      */
     @Override
     public boolean equals(Object obj) {
