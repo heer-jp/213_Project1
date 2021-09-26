@@ -1,5 +1,8 @@
 package project1;
-
+/**
+ * Creates a collection of constant genre data types.
+ * @author Sai Maduri,  Heer Patel
+ */
 public enum Genre {
-	Pop, Country, Classical, Jazz, Unknown;
+    Classical, Country, Jazz, Pop, Unknown;
 }
