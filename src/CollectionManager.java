@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 /**
  * Reads all user input and runs valid commands until terminated.
  * Valid commands, besides termination command, are performed by Collection class.
- * aaaaaaaCommands include Add, Remove, Lend out, Return, and Print albums in a collection as well as Termination. 
+ * Commands include Add, Remove, Lend out, Return, and Print albums in a collection as well as Termination. 
  * @author Sai Maduri, Heer Patel
  */
 public class CollectionManager {
