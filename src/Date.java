@@ -168,12 +168,6 @@ public class Date implements Comparable<Date> {
         return year;
     }
     /**
-     * !ASK ABOUT THIS! If objects are equal return false.
-     */
-    public boolean equals(Object obj) {
-        return false;
-    }
-    /**
      * Main method holds test mains.
      * @param args test mains.
      */
