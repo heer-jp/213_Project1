@@ -5,9 +5,8 @@ package project1;
  */
 public class RunProject1 {
 	/**
-	 * Calls CollectionManager run method.
-	 * Reads all user input and 
-	 * @param args just checking to see if there is a javadoc 
+	 * Calls CollectionManager run method which deals with input/output.
+	 * @param args user input
 	 */
 	public static void main(String [] args) {
 	new CollectionManager().run(); 
